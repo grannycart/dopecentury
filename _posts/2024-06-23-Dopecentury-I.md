@@ -1,5 +1,9 @@
-
-# Dopecentury I
+---
+layout: post
+title: Dopecentury I
+category: dopecentury
+goat_counter: "bysoundalone" 
+---
 
 ## The Crawler
 
@@ -37,7 +41,5 @@ Follow the machine to the very rear, a mile off behind, to find the last few ten
 
 The machine rolls along at an elegant, steady pace. A human pace. All along before the observer. In a long thin line that stretches out ahead to the horizon. The route already laid. The path that will be followed is clear.
 
-
-
-
+----------------------------------------
 

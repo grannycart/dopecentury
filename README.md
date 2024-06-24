@@ -19,6 +19,8 @@ Not _rules_, but guidelines for this project:
 * Keep meta-writing to a minimum. Put notes in comments in the .md files if you have them, but focus on creating narrative content.
 * Writing can be about anything, but it should be fiction focused on aesthetic.
 
+## Read it
+* [Posts](posts)
 
 
 
