@@ -1,4 +1,6 @@
-# A Dopesmoker Century
+---
+layout: home
+---
 
 ## What?
 For years I have been asking myself the question: if Motörhead or Dopesmoker were a novel, what would it be like?
