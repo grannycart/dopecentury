@@ -23,6 +23,7 @@ Not _rules_, but guidelines for this project:
 
 ## Read it
 * [Entries](entries)
+* [RSS feed](https://grannycart.net/dopecentury/feed.xml)
 
 
 
