@@ -1,11 +1,9 @@
 ---
 layout: post
-title: Dopecentury II
+title: Dopecentury II --- What happens in the low places in the City
 category: dopecentury
 goat_counter: "bysoundalone" 
 ---
-
-## What happens in the low places in the City
 
 The great city descends as it moves northward, sloping gradually as it approaches the bay. The neglected waterfront winds back and forth among a series of coves and inlets, and these windings create isolated pockets of neighborhood. Few live in these enclaves though, so neighborhood may not be the correct word. Instead they are places of machine shops, industrial workings and repairs. Economies of collusion, but the work comes in to these places, is carried out, and then moves on.
 
@@ -47,6 +45,6 @@ Little more than a steel tube, many inches thick, with a blank steel domed cap w
 
 "Perhaps. But more than that, I just want to hear things no one else has heard. Fresh sounds, new musics, pure creation from out of the dark of the unknown. Where else could creativity comes from, if not from the darkness? The dark of the deep is maybe like the dark inside your skull --- it will always be pure dark in your skull. No light is likely to enter there until after you are dead. While you are living, the darkness is where your thoughts, your creativity, where _you_ come from, if your mind is you, which mostly it is. Maybe in the dark of the world is where some larger creativity, some larger mind could come from. If so, the only way we'll ever know is by listening for it, since sound is permitted to pass freely, and light is not. I am going to go listen."
 
-
+----------------------------------------
 
 
