@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Dopecentury IV --- 
+title: Dopecentury IV --- Rise and Fall
 category: dopecentury
 goat_counter: "bysoundalone" 
 ---
