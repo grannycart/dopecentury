@@ -1,5 +1,5 @@
 possible-future-entries.md
-Last modified: 2024-07-06 19:02
+Last modified: 2024-07-07 11:15
 
 # Possible future entries:
 * cliffside mining machines
@@ -9,4 +9,10 @@ Last modified: 2024-07-06 19:02
 * solo-operator submarine failure
     * the sounds of the tanks failing, descending
     * writing a final note: I am still in love with you
+* Jack Bauer style internal dialog
+    * Pulling race radio out of his ear
+    * "Time! time! give me the time!"
+* rules of the smug god
+
+
 
