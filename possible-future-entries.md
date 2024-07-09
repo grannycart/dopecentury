@@ -1,5 +1,5 @@
 possible-future-entries.md
-Last modified: 2024-07-07 11:15
+Last modified: 2024-07-09 15:16
 
 # Possible future entries:
 * cliffside mining machines
@@ -13,6 +13,7 @@ Last modified: 2024-07-07 11:15
     * Pulling race radio out of his ear
     * "Time! time! give me the time!"
 * rules of the smug god
+* sonic titan: a huge sound that travels across the lanscape
 
 
 
