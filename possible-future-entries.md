@@ -1,5 +1,5 @@
 possible-future-entries.md
-Last modified: 2024-07-11 21:26
+Last modified: 2024-07-22 13:28
 
 # Possible future entries:
 * cliffside mining machines
@@ -13,9 +13,14 @@ Last modified: 2024-07-11 21:26
     * "Time! time! give me the time!"
 * rules of the smug god
 * sonic titan: a huge sound that travels across the lanscape
-* phonetics-only description of something
 * a paleolithic father and daughter walk barefoot across a muddy landscape full of mammoths, sloths, and saber-toothed monster. They are starving and heard that a group nearby had secured a large pile of meat.
     * possibly good for the phonetics experiment
+        * make a list of phonetic elements that can be used, derived from dopecentury X
+    * pick up where dopecentury X left off, and continue the story in a later Dopecentury entry
+* experiment with syntax:
+    * run-on sentences, whole paragraph sentences.
+    * grammaer
+    * alternative punctuation
 
 
 
