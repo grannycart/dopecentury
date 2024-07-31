@@ -1,5 +1,5 @@
 possible-future-entries.md
-Last modified: 2024-07-23 16:01
+Last modified: 2024-07-31 16:52
 
 # Possible future entries:
 * cliffside mining machines
@@ -22,6 +22,7 @@ Last modified: 2024-07-23 16:01
     * grammaer
     * alternative punctuation
 * Something based on the killdozer
+* A town in a hollow wakes up to find themselves engulfed in smoke. Wet shirts over mouths hand in hand they make their way through mud to get above the smoke. The smoke does not go
 
 
 
