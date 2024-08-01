@@ -1,5 +1,5 @@
 possible-future-entries.md
-Last modified: 2024-07-31 16:52
+Last modified: 2024-08-01 13:25
 
 # Possible future entries:
 * cliffside mining machines
@@ -11,6 +11,7 @@ Last modified: 2024-07-31 16:52
 * Jack Bauer style internal dialog
     * Pulling race radio out of his ear
     * "Time! time! give me the time!"
+    * maybe one long paragraph, which is how a bike race feels, and also since it would all be in his head
 * rules of the smug god
 * sonic titan: a huge sound that travels across the lanscape
 * a paleolithic father and daughter walk barefoot across a muddy landscape full of mammoths, sloths, and saber-toothed monster. They are starving and heard that a group nearby had secured a large pile of meat.
@@ -21,6 +22,7 @@ Last modified: 2024-07-31 16:52
     * run-on sentences, whole paragraph sentences.
     * grammaer
     * alternative punctuation
+    * "building blocks" --- write a bunch of short bits (maybe even just a couple of words) that could be strung together in a different order later.
 * Something based on the killdozer
 * A town in a hollow wakes up to find themselves engulfed in smoke. Wet shirts over mouths hand in hand they make their way through mud to get above the smoke. The smoke does not go
 

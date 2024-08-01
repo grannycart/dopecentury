@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Dopecentury XII --- 
+title: Dopecentury XII --- The Dump
 category: dopecentury
 goat_counter: "bysoundalone" 
 ---
