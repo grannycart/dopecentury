@@ -1,5 +1,5 @@
 possible-future-entries.md
-Last modified: 2024-08-04 22:10
+Last modified: 2024-08-05 13:46
 
 # Possible future entries:
 * cliffside mining machines
@@ -25,7 +25,6 @@ Last modified: 2024-08-04 22:10
     * "building blocks" --- write a bunch of short bits (maybe even just a couple of words) that could be strung together in a different order later.
 * Something based on the killdozer
 * A town in a hollow wakes up to find themselves engulfed in smoke. Wet shirts over mouths hand in hand they make their way through mud to get above the smoke. The smoke does not go
-* Dude runs down a cheetah
 
 
 
