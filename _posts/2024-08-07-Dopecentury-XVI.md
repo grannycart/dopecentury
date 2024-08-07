@@ -43,6 +43,7 @@ However, at the same time we live in an age where a huge portion of the populati
 
 How to explain this: that we now live in a world where it is both impossible to create a hoax and yet conspiracy theories spread faster and further than ever? We suggest that RYNS could prove a useful test-case for picking apart this phenomenon --- which is the only _real_ phenomemon when it comes to RYNS.
 
+-------------------------------------------------
 
 [^1]: Galvin and Friedman, _Restored Youth Through Night Swimming: Tracing Phenomenal Claims, From Film Into Culture_. Journal of Phenomenological Culture, 1997. 
 
