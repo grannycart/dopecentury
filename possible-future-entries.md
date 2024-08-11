@@ -1,5 +1,5 @@
 possible-future-entries.md
-Last modified: 2024-08-09 12:47
+Last modified: 2024-08-11 11:45
 
 # Possible future entries:
 * cliffside mining machines
@@ -26,6 +26,15 @@ Last modified: 2024-08-09 12:47
 * Something based on the killdozer
 * A town in a hollow wakes up to find themselves engulfed in smoke. Wet shirts over mouths hand in hand they make their way through mud to get above the smoke. The smoke does not go
 * A belt of mountains of fat (fatbergs) circle the waist of the globe. Machines cut it, push it, suck it, and burn it.
+* A series of text messages from people aboard a crashing plane, sending their last messages:
+    * peppered with the typical "I love you honey, and the kids"
+    * But also a report from a pilot sitting in the jump seat: thrust reversers deployed at crusiing speed. Hope this report helps your investigation
+        * (this helps tell the story with no other explanation of what is going on)
+    * a heavy metal fan: "I die in battle! I go to valhaalla!"
+    * Some religious notes. Maybe some repentances
+    * "The ambition, audacity, and hubrid of humans! to fly through the air. And who pays the price for that hubris? Me? The innocents on board this flight?"
+    * "Safest way to fly my ass!"
+    * as an experiement in discipline, type all entries on the flip phone with T9
 
 
 
