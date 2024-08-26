@@ -1,5 +1,5 @@
 possible-future-entries.md
-Last modified: 2024-08-24 10:35
+Last modified: 2024-08-26 12:16
 
 # Possible future entries:
 * (see daydreams)
@@ -36,13 +36,6 @@ Last modified: 2024-08-24 10:35
     * "The ambition, audacity, and hubrid of humans! to fly through the air. And who pays the price for that hubris? Me? The innocents on board this flight?"
     * "Safest way to fly my ass!"
     * as an experiement in discipline, type all entries on the flip phone with T9
-* the box:
-    * up a country lanei that winds up into the hills, far past where the streetlights end
-    * A turn down an overgrown track, two tracks side by side with weeds growing up the middle
-    * an old cabin, with a broken window pane
-    * a stove, with the charred remants of a fire in it
-    * a small box of glistening black wood in among the charred remains of the fire
-    * bones around the stove
 
 
 
