@@ -1,5 +1,5 @@
 possible-future-entries.md
-Last modified: 2024-08-26 12:16
+Last modified: 2024-08-28 16:22
 
 # Possible future entries:
 * (see daydreams)
@@ -36,6 +36,7 @@ Last modified: 2024-08-26 12:16
     * "The ambition, audacity, and hubrid of humans! to fly through the air. And who pays the price for that hubris? Me? The innocents on board this flight?"
     * "Safest way to fly my ass!"
     * as an experiement in discipline, type all entries on the flip phone with T9
+* A world where _everyone_ lives in their own microstate
 
 
 
