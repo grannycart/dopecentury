@@ -1,5 +1,5 @@
 possible-future-entries.md
-Last modified: 2024-08-28 16:22
+Last modified: 2024-08-29 11:07
 
 # Possible future entries:
 * (see daydreams)
@@ -37,6 +37,7 @@ Last modified: 2024-08-28 16:22
     * "Safest way to fly my ass!"
     * as an experiement in discipline, type all entries on the flip phone with T9
 * A world where _everyone_ lives in their own microstate
+* Somehow do a version of the natural appeal of mechanical things (mice on wheels)
 
 
 
