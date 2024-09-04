@@ -1,5 +1,5 @@
 possible-future-entries.md
-Last modified: 2024-08-29 11:07
+Last modified: 2024-09-04 19:01
 
 # Possible future entries:
 * (see daydreams)
@@ -38,6 +38,9 @@ Last modified: 2024-08-29 11:07
     * as an experiement in discipline, type all entries on the flip phone with T9
 * A world where _everyone_ lives in their own microstate
 * Somehow do a version of the natural appeal of mechanical things (mice on wheels)
+* The band leader says "play darkness" and the band tries, and few times, then all the lights in the city go out.
+    * A couple trying to find their way home in the darkness, suddenly figures out they can guide themselves by the fireflies
+    * (For Xala, and all the others of the West who have no idea what they are missing.)
 
 
 
