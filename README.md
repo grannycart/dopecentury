@@ -2,6 +2,10 @@
 layout: home
 ---
 
+***This project moved to [grannycart.net/dopecentury](https://grannycart.net/dopecentury)***
+
+--------------------------------------------------------------------------------
+
 ## What?
 For years I have been asking myself the question: if Motörhead or Dopesmoker were a novel, what would it be like?
 
